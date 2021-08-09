@@ -484,6 +484,14 @@ header
   transition-delay: 0s, 0s, 0.3s;
 }
 
+.main-block p {
+  text-align: left;
+}
+
+.main-block div {
+  padding: 20px;
+}
+
 .header-area .main-nav .menu-trigger {
   cursor: pointer;
   display: block;
